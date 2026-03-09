@@ -46,6 +46,6 @@ A browser-based Snake Game demonstrating JavaScript game logic and DOM manipulat
 
 📧 Email: **endriaseshetu75@gmail.com**
 
-💼 LinkedIn:  https://www.linkedin.com/in/endrias-eshetu-a25948388
+💼 LinkedIn:  https://www.linkedin.com/in/endrias-eshetu
 
 🐙 GitHub:  https://github.com/EndriasEshetu

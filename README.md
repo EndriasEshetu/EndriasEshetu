@@ -30,7 +30,7 @@ A browser-based Snake Game demonstrating JavaScript game logic and DOM manipulat
 
 ## 🌐 Portfolio
 
-🔗 https://endrias.vercel.app
+🔗 https://endrias.tech
 
 ---
 

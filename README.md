@@ -125,14 +125,14 @@ An automated financial workflow application helping businesses handle payment tr
 │                   FULL-STACK ARCHITECTURE               │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
-│   🌐 Modern Web Applications (React, Vite, Next)         │
-│   🔐 Enterprise Authentication & RBAC Governance         │
+│   🌐 Modern Web Applications (React, Vite, Next)        │
+│   🔐 Enterprise Authentication & RBAC Governance        │
 │   📊 Interactive Management Dashboards                  │
-│   📅 Medical & Enterprise Scheduling Systems             │
+│   📅 Medical & Enterprise Scheduling Systems            │
 │   📄 Document Management & Approval Workflows           │
-│   🛒 Digital E-Commerce Platforms & Asset Catalogs       │
+│   🛒 Digital E-Commerce Platforms & Asset Catalogs      │
 │   🤖 Notification Engines & Background Automation       │
-│   🔗 Scalable RESTful APIs & Cloud Microservices         │
+│   🔗 Scalable RESTful APIs & Cloud Microservices        │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -152,16 +152,8 @@ An automated financial workflow application helping businesses handle payment tr
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=EndriasEshetu&theme=tokyonight" alt="GitHub Streak" />
-  <br /><br />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EndriasEshetu&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndriasEshetu&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+  <br />
+  
 </div>
 
 ---

@@ -153,8 +153,15 @@ An automated financial workflow application helping businesses handle payment tr
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=EndriasEshetu&theme=tokyonight" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=EndriasEshetu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndriasEshetu&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EndriasEshetu&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndriasEshetu&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </div>
 
 ---
